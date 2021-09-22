@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieJetpackLast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_title_movie">List Movie</string>
+    <string name="tab_title_tvshow">List TV Show</string>
+    <string name="toolbar_title_detail_movie">Detail Movie</string>
+    <string name="toolbar_title_detail_tvshow">Detail TV Show</string>
+    <string name="description">Description</string>
+    <string name="deskripsi_movie">Ini adalah deskripsi movie</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_tv">Tv Show</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="fav_list">Tidak ada data</string>
+    <string name="belum_ada_list">Kamu belum punya list favorite</string>
+    <string name="judul">JUDUL</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tv">Detail TV</string>
+</resources>
