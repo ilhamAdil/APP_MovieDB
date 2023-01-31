@@ -7,6 +7,7 @@ on themoviedb.org website. It can also save favourites movies or TV show and sav
 ## Movie
 ### List Movie
 ![moviedb1](https://user-images.githubusercontent.com/66354919/215677857-7e45c062-3ab0-412f-800f-ef3984ddf822.png)
+<img src="https://user-images.githubusercontent.com/66354919/215677857-7e45c062-3ab0-412f-800f-ef3984ddf822.png" width="48">
 
 ### Detail Movie
 ![moviedb2](https://user-images.githubusercontent.com/66354919/215677880-454f2dcb-07f7-409c-948a-d6f0205baa25.png)
